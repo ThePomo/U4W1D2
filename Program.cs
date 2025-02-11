@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
       
-        Persona persona1 = new Persona("Giuseppe", "Pomo", 30);
+        Persona persona1 = new Persona("Giuseppe Davide Salvatore", "Pomo", 30);
 
      
         Console.WriteLine("Dettagli della Persona:");
